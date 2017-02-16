@@ -1,0 +1,3 @@
+﻿Name=巨·顺手
+Style=default
+SupportPlatform=SWIA
