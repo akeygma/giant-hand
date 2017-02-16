@@ -10,8 +10,8 @@
 ![effect](https://github.com/akeygma/giant-hand/blob/master/demo.png)
 
 安装：
-1. 在此目录下执行“zip ssskin.bds *”或在windows下将此目录下的文件打成一个zip包并更改后缀为.bds，注意giant-hand不出现在路径中。
-2. 安装此皮肤请将包含此文件的bds后缀文件（一般为ssskin1_0.bds）放入华为X2手机的/sdcard/huawei/ime/skins目录下并更名为ssskin.bds，并在当前输入法设置菜单中选择主题皮肤，然后选中巨·顺手皮肤即可使用。如果你使用的是百度输入法，也可以使用这个皮肤，只需将上述路径中的huawei改为baidu即可。
+1. 执行install.sh, 你的系统中应当已经安装7z和adb(android tool chain)
+2. 并在当前输入法设置菜单中选择主题皮肤，然后选中巨·顺手皮肤即可使用。如果你使用的是百度输入法，也可以使用这个皮肤，只需将install.sh中的路径里的huawei改为baidu即可。
 
 版权信息：
 本皮肤包含了华为EMUI3.0的默认输入法皮肤的有关资源。本皮肤中的布局设计为本人原创。如需重新分发，再次开发，商业使用或其它任何问题，请电邮guokai.ma@gmail.com获得更多信息。
